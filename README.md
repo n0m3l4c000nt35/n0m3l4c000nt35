@@ -41,11 +41,7 @@
   <a href="https://academy.hackthebox.com/achievement/badge/c13772fd-ee32-11ee-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/4a11a1a1d810967184694662d629de2d/logo.png" alt="Panoptic" width="40" height="40" title="Incident Handling Process"/></a>
   <a href="https://academy.hackthebox.com/achievement/badge/856fd975-f047-11ee-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/852647a1f21be70b6893e582578133b9/logo.png" alt="Sharp cliff climber" width="40" height="40" title="Introduction to C#"/></a>
   <a href="https://academy.hackthebox.com/achievement/badge/062c199e-e0a2-11ee-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/a6fe6c6e23b919c7a41fa3ec144d3a82/logo.png" alt="Humanoid" width="40" height="40" title="Brief Intro to Hardware Attacks"/></a>
-  <a href=""><img src="" alt="" width="40" height="40" title=""/></a>
-  <a href=""><img src="" alt="" width="40" height="40" title=""/></a>
-  <a href=""><img src="" alt="" width="40" height="40" title=""/></a>
-  <a href=""><img src="" alt="" width="40" height="40" title=""/></a>
-  <a href=""><img src="" alt="" width="40" height="40" title=""/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/23bae0e1-b292-11ee-bfb6-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/372e0f41bced75ab64cfe1cbb76de4d0/logo.png" alt="Chronicle champion" width="40" height="40" title="Security Incident Reporting"/></a>
 </div>
 <br />
 <div>
