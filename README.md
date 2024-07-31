@@ -8,6 +8,9 @@
 <div>
   <a href="https://academy.hackthebox.com/achievement/badge/978c7e2f-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="Philomath" width="40" height="40" title="Learning Process"/></a>
   <a href="https://academy.hackthebox.com/achievement/badge/a138b835-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Academician" width="40" height="40" title="Intro to Academy"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/e9bbb9e4-01c0-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/hacking-in-the-wild.png" alt="Hacking in the wild" width="40" height="40" title="Hacking WordPress"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/e7d0adc7-9403-11ee-bfb6-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" alt="Our favorite seabird" width="40" height="40" title="Linux Fundamentals"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/a90f78ec-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" alt="The eye that sees all" width="40" height="40" title="Network Enumeration with Nmap"/></a>
 </div>
 <br />
 <div>
