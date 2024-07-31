@@ -11,6 +11,13 @@
   <a href="https://academy.hackthebox.com/achievement/badge/e9bbb9e4-01c0-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/hacking-in-the-wild.png" alt="Hacking in the wild" width="40" height="40" title="Hacking WordPress"/></a>
   <a href="https://academy.hackthebox.com/achievement/badge/e7d0adc7-9403-11ee-bfb6-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" alt="Our favorite seabird" width="40" height="40" title="Linux Fundamentals"/></a>
   <a href="https://academy.hackthebox.com/achievement/badge/a90f78ec-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" alt="The eye that sees all" width="40" height="40" title="Network Enumeration with Nmap"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/3ae24398-e6d8-11ee-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/do-things-the-traditional-way.png" alt="Do things the traditional way" width="40" height="40" title="Introduction to Bash Scripting"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/40d90a50-a111-11ee-bfb6-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/every-road-leads-back-to-root.png" alt="Every road leads back to root" width="40" height="40" title="File Inclusion"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/b1da3886-a658-11ee-bfb6-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/airborne-delivery.png" alt="Airborne delivery" width="40" height="40" title="File Transfers"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/af6d9da9-f061-11ee-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/didnt-know-a-python-can-do-that.png" alt="Didn't know a python can do that" width="40" height="40" title="DNS Enumeration Using Python"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/3653e754-a7a6-11ee-bfb6-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/out-of-bounds.png" alt="Out of bounds" width="40" height="40" title="Stack-Based Buffer Overflows on Linux x86"/></a>
+  <a href=""><img src="" alt="" width="40" height="40" title=""/></a>
+  <a href=""><img src="" alt="" width="40" height="40" title=""/></a>
 </div>
 <br />
 <div>
