@@ -25,6 +25,16 @@
   <a href="https://academy.hackthebox.com/achievement/badge/722cb9fb-1c5c-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/stairway-to-heaven.png" alt="Stairway to Heaven" width="40" height="40" title="Linux Privilege Escalation"/></a>
   <a href="https://academy.hackthebox.com/achievement/badge/6934aa40-9eab-11ee-bfb6-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/fuzzing-is-power.png" alt="Fuzzing is power" width="40" height="40" title="Attacking Web Applications with Ffuf"/></a>
   <a href="https://academy.hackthebox.com/achievement/badge/b4002d4d-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/your-white-belt-training-begins.png" alt="Your white belt training begins" width="40" height="40" title="Introduction to Active Directory"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/b54141c3-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/developer.png" alt="Developer" width="40" height="40" title="Introduction to Web Applications"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/b71a591c-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/your-first-battle.png" alt="Your first battle" width="40" height="40" title="Getting Started"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/9884c698-ac4e-11ee-bfb6-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/your-first-battle.png" alt="Lurk in the packets" width="40" height="40" title="Intro to Network Traffic Analysis"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/b982390b-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/start-building-your-arsenal.png" alt="Start building your arsenal" width="40" height="40" title="Setting Up"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/7da20aab-e0b7-11ee-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/snake-charmer.png" alt="Snake Charmer" width="40" height="40" title="Introduction to Python 3"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/31546468-d755-11ee-891c-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/attacking-the-registers.png" alt="Attacking the registers" width="40" height="40" title="Stack-Based Buffer Overflows on Windows x86"/></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/a257617d-f910-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/tactical.png" alt="Tactical" width="40" height="40" title="Penetration Testing Process"/></a>
+  <a href=""><img src="" alt="" width="40" height="40" title=""/></a>
+  <a href=""><img src="" alt="" width="40" height="40" title=""/></a>
+  <a href=""><img src="" alt="" width="40" height="40" title=""/></a>
   <a href=""><img src="" alt="" width="40" height="40" title=""/></a>
   <a href=""><img src="" alt="" width="40" height="40" title=""/></a>
 </div>
