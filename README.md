@@ -5,7 +5,9 @@
 📚 &nbsp; Studying at *BYU-Idaho* **[Bachelor of Applied Science Software Development](https://www.byupathway.edu/bachelors-degree/software-development)**<br />
 📚 &nbsp; Studying at **[Hack The Box Academy](https://academy.hackthebox.com/)**<br />
 
-<div>
+<h3 align=center>🏆 HTB bagdes 🏆</h3>
+
+<div align=center>
   <a href="https://academy.hackthebox.com/achievement/badge/978c7e2f-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="Philomath" width="40" height="40" title="Learning Process"/></a>
   <a href="https://academy.hackthebox.com/achievement/badge/a138b835-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Academician" width="40" height="40" title="Intro to Academy"/></a>
   <a href="https://academy.hackthebox.com/achievement/badge/e9bbb9e4-01c0-11ef-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/hacking-in-the-wild.png" alt="Hacking in the wild" width="40" height="40" title="Hacking WordPress"/></a>
@@ -43,7 +45,11 @@
   <a href="https://academy.hackthebox.com/achievement/badge/062c199e-e0a2-11ee-b18d-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/a6fe6c6e23b919c7a41fa3ec144d3a82/logo.png" alt="Humanoid" width="40" height="40" title="Brief Intro to Hardware Attacks"/></a>
   <a href="https://academy.hackthebox.com/achievement/badge/23bae0e1-b292-11ee-bfb6-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/372e0f41bced75ab64cfe1cbb76de4d0/logo.png" alt="Chronicle champion" width="40" height="40" title="Security Incident Reporting"/></a>
 </div>
+
 <br />
+
+## Skills 🥷 Tools
+
 <div>
   <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="30" height="30"/>&nbsp;
