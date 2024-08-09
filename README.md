@@ -57,3 +57,7 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="30" height="30"/>
 </div>
+
+<br />
+
+📒 [Mis notas de bug bounty](https://n0m3l4c000nt35.github.io) 🐛
