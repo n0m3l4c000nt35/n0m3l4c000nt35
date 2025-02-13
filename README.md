@@ -10,13 +10,15 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="30" height="30"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="30" height="30"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="30" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express.js" width="30" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="30" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/>
 </div>
 
 <h3 align=center>🏆 HTB bagdes 🏆</h3>
