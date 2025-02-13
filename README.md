@@ -1,6 +1,6 @@
 # Esteban Zárate
 
-### Pentester # Developer
+### Pentester 💻 Developer
 
 📚 &nbsp; Studying at *BYU-Idaho* **[Bachelor of Applied Science Software Development](https://www.byupathway.edu/bachelors-degree/software-development)**<br />
 
