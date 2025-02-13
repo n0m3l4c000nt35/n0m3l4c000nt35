@@ -1,6 +1,6 @@
 # Esteban Zárate
 
-### Pentester 💻 Developer
+## Pentester 💻 Developer
 
 📚 &nbsp; Studying at *BYU-Idaho* **[Bachelor of Applied Science Software Development](https://www.byupathway.edu/bachelors-degree/software-development)**<br />
 
@@ -21,7 +21,7 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/>
 </div>
 
-<h3 align=center>🏆 HTB bagdes 🏆</h3>
+<h2 align=center>🏆 HTB bagdes 🏆</h2>
 <div align=center>
   <a href="https://academy.hackthebox.com/achievement/badge/978c7e2f-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="Philomath" width="40" height="40" title="Learning Process"/></a>
   <a href="https://academy.hackthebox.com/achievement/badge/a138b835-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Academician" width="40" height="40" title="Intro to Academy"/></a>
