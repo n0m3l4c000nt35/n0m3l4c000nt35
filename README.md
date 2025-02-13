@@ -8,6 +8,7 @@
 
 <div>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="30" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="30" height="30"/>&nbsp;
