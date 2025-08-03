@@ -1,6 +1,6 @@
 # Esteban Zárate
 
-## Pentester 💻 Developer
+## Developer 💻 Cybersecurity Analyst
 
 📚 &nbsp; Studying at *BYU-Idaho* **[Bachelor of Applied Science Software Development](https://www.byupathway.edu/bachelors-degree/software-development)**<br />
 📚 &nbsp; Studying at *Ensign College* **[Bachelor of Applied Science Information Technology](https://www.byupathway.edu/bachelors-degree/information-technology)**<br />
